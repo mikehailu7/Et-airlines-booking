@@ -1,0 +1,138 @@
+body{
+    background-image:url(globalone.jpg);
+    background-repeat:no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+    opacity: 0.9;
+}
+ul li{
+    float:left;
+    padding-left: 15px;
+    padding-right:15px;
+   padding-top:15px;
+   padding-bottom:15px;
+   margin-top:auto;
+   margin-bottom:auto;
+  
+   font-family:cursive;
+}
+ul li video{
+    margin-top:none;
+}
+ul{
+    margin-left:70px;
+    list-style-type: none;
+}
+h1{
+color:green;
+opacity: 0.5;
+font-size:30px;
+text-align: left;
+margin-left:120px;
+margin-top:20%;
+font-family:cursive;
+
+}
+form{
+    
+    margin-top:10%;
+    margin-left:20%;
+    font-style: inherit;
+    font-size:100%;
+    color: green;
+    padding-left:auto;
+    font-family:cursive;
+
+}
+h2{
+    font-family: cursive;
+    color:green;
+}
+
+h2:hover{
+    margin-left:5px;
+    transition: all 0.5s; 
+   
+}
+
+.footer{
+    bottom:0px;
+    width:1500;
+    height:100px;
+    margin-top:80%;
+ 
+}
+
+.footer .outer{
+    background-image: url(et.jpg);
+    background-size:100%;
+   font-size: 15px;
+   width: 1500px;
+  display: flex;
+
+
+}
+
+.footer .innerone{
+   width:60px;
+   
+  margin-left:8%;
+  margin-right:8%;
+
+  
+  
+}
+
+.footer .innertwo{
+   width:300px;
+  
+
+
+   margin-right:10%;
+   margin-left:10%;
+
+  
+}
+.footer .innerthree{
+    width:300px;
+   
+
+    margin-right:10%;
+    margin-left:10%;
+    
+   
+ }
+.footer .innerfour{
+    width:60px;
+   
+    margin-right:10%;
+    margin-left:10%;
+     
+   
+ }
+
+.footer a{
+    display:block;
+    color:green;
+    padding:4%;
+    font-family: cursive;
+   
+    
+}
+.footer a:hover{
+    margin-left:5px;
+transition: all 0.5s; 
+
+}
+
+
+.footer .copyright{
+    background-color:whitesmoke;
+    color:green;
+    text-align: 500px;
+}
+
+.footer .copyright span{
+    margin-left:600px;
+    font-family: cursive;
+}

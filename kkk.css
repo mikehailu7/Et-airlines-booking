@@ -1,0 +1,22 @@
+body{
+    background-image: url(oob.png);
+    background-attachment: fixed;
+    background-size: 100%;
+   
+}
+
+p{
+    color:black;
+    padding:middle;
+    width:1500px;
+    font-size:20px;
+    font-family: cursive;
+    text-decoration-line: initial;
+}
+li{
+    color:black;
+    padding:middle;
+    width:1500px;
+    font-size: 25px;
+    font-family: cursive;
+}

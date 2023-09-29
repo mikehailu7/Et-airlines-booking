@@ -1,0 +1,2 @@
+
+document.write('<h1> hellow world </h1>');

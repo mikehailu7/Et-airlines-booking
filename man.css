@@ -1,0 +1,21 @@
+.container{
+
+    overflow:hidden;
+}
+
+.sliding-background{
+ background:url(ione.jpg)repeat-x,url(imone.jpg);
+ background-size:20%;
+height:500px;
+width:5076px;
+animation:slide 60s linear infinite;
+margin-top:5%;
+}
+@keyframes slide{
+ 0%{
+    transform:translate3d(0,0,0);
+ } 
+ 100%{
+    transform:translate3d(-1692px,0,0);
+}
+}
